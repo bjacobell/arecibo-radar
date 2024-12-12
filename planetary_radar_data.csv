@@ -1,0 +1,39 @@
+Observatory,Target,Target Type,UT Date,UT Start Time,UT Stop Time,Pt [kW],Mode,Code Length [bits?],Gal. Latitude,Gal. Longitude,ADS Link to Paper
+Goldstone,Didymos (primary body),main-belt asteroid,2003-11-14,05:17:59,05:33:31,450,C,,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Goldstone,Didymos (primary body),main-belt asteroid,2003-11-14,05:57:16,06:04:34,450,I,127,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Goldstone,Didymos (primary body),main-belt asteroid,2003-11-14,07:05:06,07:14:06,450,I,127,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Goldstone,Didymos (primary body),main-belt asteroid,2003-11-14,07:50:59,08:09:45,450,I,127,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Goldstone,Didymos (primary body),main-belt asteroid,2003-11-14,08:29:38,09:11:24,450,I,127,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Goldstone,Didymos (primary body),main-belt asteroid,2003-11-15,04:43:59.5,04:59:50.5,450,C,,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Goldstone,Didymos (primary body),main-belt asteroid,2003-11-15,05:29:50.5,06:37:38.5,450,I,127,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Goldstone,Didymos (primary body),main-belt asteroid,2003-11-15,07:27:34.5,07:38:24.5,450,I,127,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Goldstone,Didymos (primary body),main-belt asteroid,2003-11-15,09:10:58.5,09:30:10.5,450,I,127,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Arecibo,Didymos (primary body),main-belt asteroid,2003-11-23,03:00:33.5,03:09:38.5,450,C,,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Arecibo,Didymos (primary body),main-belt asteroid,2003-11-23,03:23:28.5,04:57:54.5,450,I,65535,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Arecibo,Didymos (primary body),main-belt asteroid,2003-11-24,02:54:52.5,03:04:15.5,400,C,,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Arecibo,Didymos (primary body),main-belt asteroid,2003-11-24,03:14:33.5,05:08:09.5,400,I,65535,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Arecibo,Didymos (primary body),main-belt asteroid,2003-11-26,02:52:18,03:02:35,400,C,,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Arecibo,Didymos (primary body),main-belt asteroid,2003-11-26,03:07:09,05:19:17,400,I,65535,,,https://ui.adsabs.harvard.edu/abs/2020Icar..34813777N/abstract
+Arecibo,1999 TY2,near-Earth asteroid,1999-10-05,02:58:05.5,03:26:36.5,425,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,1999 TY2,near-Earth asteroid,1999-10-05,03:28:29.5,03:38:59.5,425,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,1999 TY2,near-Earth asteroid,1999-10-05,03:42:16.5,03:50:16.5,425,I,1023,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,1999 TY2,near-Earth asteroid,1999-10-05,03:51:54,04:03:39,425,I,8191,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,1999 TY2,near-Earth asteroid,1999-10-05,04:06:53,04:17:23,425,I,32767,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,1999 TY2,near-Earth asteroid,1999-10-05,04:22:38,04:51:53,425,I,1023,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,1999 TY2,near-Earth asteroid,1999-10-05,04:53:42,05:34:18,425,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,21:48:25.5,21:52:01.5,900,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,21:53:45.5,21:54:41.5,900,I,1023,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,21:55:18.5,21:56:14.5,900,I,32767,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,21:56:51.5,21:57:47.5,900,I,8191,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,21:58:24.5,21:59:20.5,900,I,1023,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,22:04:06.5,22:06:26.5,900,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,22:08:12.5,22:37:29.5,900,I,65535,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,22:38:50.5,23:02:01.5,900,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,23:06:31.5,23:08:26.5,900,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,23:09:43.5,23:20:39.5,900,I,65535,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2000 UK11,near-Earth asteroid,2000-11-01,23:21:54.5,23:31:43.5,900,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2006 AM4,near-Earth asteroid,2007-02-01,12:15:10,12:21:04,687,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2006 AM4,near-Earth asteroid,2007-02-01,12:23:59,14:12:35,687,I,65535,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2006 AM4,near-Earth asteroid,2007-02-01,14:21:08,14:33:22,687,I,65535,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2006 AM4,near-Earth asteroid,2007-02-03,15:19:20,15:33:42,860,C,,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
+Arecibo,2006 AM4,near-Earth asteroid,2007-02-03,15:35:48,17:35:07,860,I,65535,,,https://ui.adsabs.harvard.edu/abs/2024Icar..41516060Z/abstract
